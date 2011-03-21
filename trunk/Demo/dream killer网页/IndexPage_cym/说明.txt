@@ -1,0 +1,9 @@
+frame为总框架
+
+index为原版模板
+
+leftframe为框架左边部分 左侧栏，left为其CSS
+
+upframe为上侧栏
+
+untitled为右下的正文，要改基本都是在这个页面里改。
