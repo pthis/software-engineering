@@ -7,8 +7,8 @@
 	修改密码	editPasswords()	
 2.2.2Student类(民)
 	名称	标识符	数据类型
-方法	上传作业	submitHomework()	
-	删除作业	deleteHomework()	
+方法	上传作业	submitHomework()1	
+	删除作业	deleteHomework()1	
 	修改小组主页风格	updateTeamPageStyle()	
 	修改小组logo	updateTeamLogo()	
 	上传项目文件	submitProjectFile ()	
