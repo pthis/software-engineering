@@ -2,49 +2,49 @@
 	名称	标识符	数据类型
 属性	用户名	userID	String
 	用户密码	passwords	String
-方法	登陆	login	
-	登出	logoff	
+方法	登陆	login	2
+	登出	logoff	2
 	修改密码	editPasswords()	
 2.2.2Student类(民)
 	名称	标识符	数据类型
-方法	上传作业	submitHomework()1	
-	删除作业	deleteHomework()1	
+方法	上传作业	submitHomework()12	
+	删除作业	deleteHomework()12	
 	修改小组主页风格	updateTeamPageStyle()1	
 	修改小组logo	updateTeamLogo()1	
 	上传项目文件	submitProjectFile ()1	
 	下载项目文件	downloadProjectFile()1	
 	删除项目文件	deleteProjectFile()1	
-	添加项目内容	addProjectItem()1	
-	编辑项目内容	editProjectItem()1	
-	删除项目内容	deleteProjectItem()1	
+	添加项目内容	addProjectItem()12	
+	编辑项目内容	editProjectItem()12	
+	删除项目内容	deleteProjectItem()12
 	创建演示项目	createDemo()1	
 	编辑演示项目	editDemo()1	
 	删除演示项目	deleteDemo()1	
 	下载资源	downloadResource()1	
 2.2.3Headman类(民)
 	名称	标识符	数据类型
-方法	编辑小组信息	editTeamInfo()	
-	恢复项目版本	recoverProjectVersion()	
-	创建项目版本	createProjectVersion()	
+方法	编辑小组信息	editTeamInfo()1	2
+	恢复项目版本	recoverProjectVersion()1
+	创建项目版本	createProjectVersion()1
 2.2.4Teacher类(金)
 	名称	标识符	数据类型
-方法	发布新作业	publishHomework()	
-	编辑已发布作业	editPubHomework()	
-	删除已发布作业	deletePubHomework()	
+方法	发布新作业	publishHomework()2	
+	编辑已发布作业	editPubHomework()2	
+	删除已发布作业	deletePubHomework()2	
 	对学生提交的作业评分	scoreStuHomework()	
 	修改对学生作业的评分	updateStuHomeworkScore()	
-	发布新公告	publishNotice()	
-	编辑已发布公告	editNotice()	
-	删除已发布公告	deleteNotice()	
+	发布新公告	publishNotice()2	
+	编辑已发布公告	editNotice()2	
+	删除已发布公告	deleteNotice()2	
 	上传资源	publishResource()	
 	删除资源	deleteResource()	
 2.2.5Admin类(鸣)
 	名称	标识符	数据类型
-方法	分组	devideTeam()	
+方法	分组	devideTeam()2	
 	功能裁剪	editFunction()	
-	查看用户信息	lookOverUserInfo()	
-	编辑用户信息	editUserInfo()	
-	删除用户	deleteUser()	
+	查看用户信息	lookOverUserInfo()2	
+	编辑用户信息	editUserInfo()2
+	删除用户	deleteUser()2	
 	课程管理	editSubjectInfo()	
 2.2.6SQLHandle类(峰)
 	名称	标识符	数据类型
